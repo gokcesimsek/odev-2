@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--ad soyad başlığı-->
+    <h1 style="color: deeppink;">GÖKÇE ŞİMŞEK</h1>
+
+    <!--hakkımda özet-->
+    <h2 style="color: blueviolet;">Hakkımda:</h2>
+    <p> Merhaba! ben gökçe. hatayda yaşıyorum. en büyük tutkum resim çizmek. şimdilik geleneksel çizimle uğraşıyorum. ancak dijitale de geçmeyi düşünüyorum çünkü bölümüm gereği yazılımla uğraşıyorum. tutkum gereği yazılımın estetik gerektiren bölümünde bulunmayı da hedefliyorum. bunun için adım olarak front end web geliştirme bootcampini ilk kez kodluyoruz ekibi sayesinde alıyorum!</p>
+    <hr>
+    <h2>sevdiğim film ve diziler</h2>
+    <ul>
+        
+            <li>fleabag</li>
+            <li>attack of titan</li>
+            <li>howls mowing castle</li>
+       
+    </ul>
+
+<h2>fleabag</h2>
+<a href="https://www.imdb.com/title/tt5687612/mediaviewer/rm683042304/?ref_=tt_ov_i">fleabag jeneriği</a>
+<h4>fleabag ne anlatmak istiyor?</h4>
+<br>
+<p>Fleabag sadece bir komedi değil, kara mizahla dolu bir trajikomedi. Yani bu dizide tıpkı gerçek hayatta olduğu gibi hiçbir şey 'mükemmel' değil. Fleabag, sadakatsizlik ve insan güvensizlikleri gibi gerçek insan sorunlarını ele alıyor, ancak bunları kurgusal bir ortamda gülünecek bir şekilde sunuyor.
+    
+</p>
+<img src="ce5e2ac8a0ded81d16dd7605ab59bfd79784711b9a4723b3dc634ab0f16c0387.jpg" alt="" style="height: 200px;">
+</body>
+</html>
